@@ -1,3 +1,13 @@
+// Ändra filnamn till .tsx
+
+// interface IUserCard {
+//   user: {
+//     name: string,
+//     email: string,
+//     phone: string,
+//   }
+// }
+
 function UserCard({ user }) {
   return (
     <div>
